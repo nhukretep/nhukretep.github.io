@@ -8,7 +8,7 @@ title: Home
 
 Ich bin in Nordbaden aufgewachsen und habe in **München** und **Mailand** studiert. Man findet mich auf [**Twitter**](https://twitter.com/nhukretep) und [**Github**](https://github.com/nhukretep). Ich bin Mitglied im [**Netzwerk Plurale Ökonomik**](https://www.plurale-oekonomik.de/netzwerk-plurale-oekonomik/). 
 
-Zur Zeit mache ich Praktikum in der öffentlichen Verwaltung zu den Themen **eGovernment und Digitalisierung**. Die Stationen und mehr Infos habe ich [hier](https://nhukretep.github.io/eGov-blog/) abgelegt.
+Zur Zeit mache ich Praktikum in der öffentlichen Verwaltung zu den Themen **eGovernment und Digitalisierung**. Die Stationen und mehr Infos habe ich **[hier](https://nhukretep.github.io/eGov-blog/)** abgelegt.
 
 *Interessen*: Open und eGovernment, Policy Evaluation und Data Science, Netzpolitik, Code
 
