@@ -14,6 +14,10 @@ title: Home
 
 **Projects:** Sharing Economy in the public sector, Enterprise Architecture for big municipalities
 
+## Workshops
+
+*"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival, Berlin, 08.09.2018; [Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor)
+
 ## Vita
 
 Ich bin in Nordbaden aufgewachsen und habe in München und Mailand Maschinenbau und VWL studiert. Im Internet bin ich unter anderem für das Social-Media-Team von **[@pluralEcon](https://twitter.com/PluralEcon)** unterwegs.
