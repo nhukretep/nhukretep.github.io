@@ -4,9 +4,7 @@ title: Home
 
 # Peter Kuhn
 
->  Wissenschaftlicher Mitarbeiter/Scientist @ fortiss
-
----
+>  Wissenschaftlicher Mitarbeiter/Researcher @ fortiss
 
 ## Research/Forschung
 
