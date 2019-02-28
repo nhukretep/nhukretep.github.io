@@ -4,8 +4,6 @@ title: Home
 
 # Peter Kuhn
 
-### 
-
 ![profilpic](.\profilpic.jpg)
 
 ### Researcher @ [fortiss](https://fortiss.org)
