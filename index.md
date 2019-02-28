@@ -4,17 +4,25 @@ title: Home
 
 # Peter Kuhn
 
->  Wissenschaftlicher Mitarbeiter/Researcher @ fortiss
+### Researcher @ [fortiss](https://fortiss.org)
 
-## Research/Forschung
+![profilpic](.\profilpic.jpg)
 
-**Interests:** Open and eGovernment, Information Management, Policy Evaluation and Data Science
+Photo: R. Schleisinger
 
-**Projects:** Sharing Economy in the public sector, Enterprise Architecture for big municipalities
+## Research topics
+
+*Interests:* Open and eGovernment, Information Management, Policy Evaluation and Data Science
+
+*Projects:* Sharing Economy in the public sector, Enterprise Architecture for big municipalities, Citizen participation with help of Chatbots and AI
 
 ## Workshops
 
 *"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival, Berlin, 08.09.2018; [Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor)
+
+## Publications
+
+"*Digitalgestützte Bürgerbeteiligung & KI - Anwendungsbeispiele, Chancen und Herausforderungen*", PLANERIN 1/2019, S. 19- 22, zusammen mit Dian Balta, Daniel Kulus, Mahdi Sellami und Helmut Krcmar.
 
 ## Vita
 
@@ -22,7 +30,7 @@ Ich bin in Nordbaden aufgewachsen und habe in München und Mailand Maschinenbau 
 
 Beruflich beschäftige ich mich mit den Themen **eGovernment und der Digitalisierung der öffentlichen Verwaltung**. Anfang 2018 war ich dazu in mehreren Behörden und Institutionen, mehr dazu [**hier**](https://nhukretep.github.io/eGov-blog/). Seit September 2018 bin ich als wissenschaftlicher Mitarbeiter im Team *Open Data Information Management* bei der [**fortiss**](https://www.fortiss.org) in München tätig.
 
-*English*
+*+++ English version +++*
 
 I grew up in south Germany and studied Engineering and Economics in Munich and Milan. I am a member of the German [**Network for Plural Economics**](https://www.exploring-economics.org/en/).
 
