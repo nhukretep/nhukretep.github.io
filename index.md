@@ -4,9 +4,11 @@ title: Home
 
 # Peter Kuhn
 
-### Researcher @ [fortiss](https://fortiss.org)
+### 
 
 ![profilpic](.\profilpic.jpg)
+
+### Researcher @ [fortiss](https://fortiss.org)
 
 Photo: R. Schleisinger
 
