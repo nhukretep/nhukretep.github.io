@@ -27,12 +27,6 @@ title: Home
 * Sharing Economy in the Public Sector
 * Citizen Participation using Chatbots and AI
 
-#### Workshops
-
-*"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival 2018, Berlin, 08.09.2018; [Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor)
-
-*"Nutzerfreundliche Formulare sind gut, keine Formulare sind besser"*, Creative Bureaucracy Festival 2019, Berlin, 20/21.09.2019 FORTHCOMING 
-
 #### Publications
 
 *"How to Streamline AI Application in Government? A Case Study on Citizen Participation in Germany"*, IFIP EGOV-CeDEMePart 2019, Dian Balta, Peter Kuhn, Helmut Krcmar, Daniel Kulus, Claudius Lieven and Mahdi Sellami. FORTHCOMING
@@ -40,6 +34,16 @@ title: Home
 *"Sharing Economy: Potential im öffentlichen Sektor"*, NEGZ-Kurzstudie Nr.5, 07/2019, Dian Balta, Sara Hofmann, Peter Kuhn, Helmut Krcmar. ([Link](https://negz.org/projekte-publikationen/))
 
 "*Digitalgestützte Bürgerbeteiligung & KI - Anwendungsbeispiele, Chancen und Herausforderungen*", PLANERIN 1/2019, S. 19- 22, Dian Balta, Helmut Krcmar, Peter Kuhn, Daniel Kulus, Mahdi Sellami.
+
+#### Workshops
+
+*"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival 2018, Berlin, 08.09.2018 ([Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor))
+
+*"Nutzerfreundliche Formulare sind gut, keine Formulare sind besser"*, Creative Bureaucracy Festival 2019, Berlin, 20/21.09.2019 FORTHCOMING 
+
+#### Posters
+
+"Referenzarchitektur für die OZG-Umsetzung in Kommunen", Poster-Session auf dem Gründungstreffen des N3GZ am 4. und 5. Juni in Münster (Link)
 
 #### Teaching
 
