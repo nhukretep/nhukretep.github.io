@@ -28,9 +28,11 @@ title: Personal Website
 * Sharing Economy in the Public Sector
 * Citizen Participation using Chatbots and AI
 
-#### Publications
+## Publications
 
-*"How to Streamline AI Application in Government? A Case Study on Citizen Participation in Germany"*, IFIP EGOV-CeDEMePart 2019, Dian Balta, Peter Kuhn, Helmut Krcmar, Daniel Kulus, Claudius Lieven and Mahdi Sellami. FORTHCOMING
+#### Paper
+
+*"How to Streamline AI Application in Government? A Case Study on Citizen Participation in Germany"*, IFIP EGOV-CeDEMePart 2019, Dian Balta, Peter Kuhn, Helmut Krcmar, Daniel Kulus, Claudius Lieven and Mahdi Sellami. FORTHCOMING ([Link](https://doi.org/10.1007/978-3-030-27325-5_18))
 
 *"Sharing Economy: Potential im öffentlichen Sektor"*, NEGZ-Kurzstudie Nr.5, 07/2019, Dian Balta, Sara Hofmann, Peter Kuhn, Helmut Krcmar. ([Link](https://negz.org/projekte-publikationen/))
 
