@@ -42,7 +42,7 @@ title: Personal Website
 
 *"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival 2018, Berlin, 08.09.2018 ([Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor))
 
-*"Nutzerfreundliche Formulare sind gut, keine Formulare sind besser"*, Creative Bureaucracy Festival 2019, Berlin, 20/21.09.2019 FORTHCOMING 
+*"Nutzerfreundliche Formulare sind gut, keine Formulare sind besser"*, Creative Bureaucracy Festival 2019, Berlin, 21.09.2019 ([Slides](https://speakerdeck.com/nhukretep/nutzerfreundliche-formulare-sind-gut-keine-formulare-sind-besser))
 
 #### Posters
 
