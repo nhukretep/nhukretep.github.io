@@ -32,7 +32,11 @@ title: Personal Website
 
 #### Paper
 
-*"How to Streamline AI Application in Government? A Case Study on Citizen Participation in Germany"*, IFIP EGOV-CeDEMePart 2019, Dian Balta, Peter Kuhn, Helmut Krcmar, Daniel Kulus, Claudius Lieven and Mahdi Sellami. FORTHCOMING ([Link](https://doi.org/10.1007/978-3-030-27325-5_18))
+2020
+*"Was sind Herausforderungen proaktiver Verwaltungsleistungen in Deutschland?", Internationale Tagung Wirtschaftsinformatik 2020, Peter Kuhn, Dian Balta, Helmut Krcmar.
+
+2019
+*"How to Streamline AI Application in Government? A Case Study on Citizen Participation in Germany"*, IFIP EGOV-CeDEMePart 2019, Dian Balta, Peter Kuhn, Helmut Krcmar, Daniel Kulus, Claudius Lieven and Mahdi Sellami. ([Link](https://doi.org/10.1007/978-3-030-27325-5_18))
 
 *"Sharing Economy: Potential im öffentlichen Sektor"*, NEGZ-Kurzstudie Nr.5, 07/2019, Dian Balta, Sara Hofmann, Peter Kuhn, Helmut Krcmar. ([Link](https://negz.org/projekte-publikationen/))
 
@@ -40,9 +44,11 @@ title: Personal Website
 
 #### Workshops
 
-*"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival 2018, Berlin, 08.09.2018 ([Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor))
+*"Information Systems Perspective on E-Government in Germany", CDTM Trend Seminar 2020, München, 05.03.2020 ([Slides](https://speakerdeck.com/nhukretep/information-systems-perspective-on-e-government-in-germany))
 
 *"Nutzerfreundliche Formulare sind gut, keine Formulare sind besser"*, Creative Bureaucracy Festival 2019, Berlin, 21.09.2019 ([Slides](https://speakerdeck.com/nhukretep/nutzerfreundliche-formulare-sind-gut-keine-formulare-sind-besser))
+
+*"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival 2018, Berlin, 08.09.2018 ([Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor))
 
 #### Posters
 
