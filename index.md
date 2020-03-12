@@ -54,7 +54,7 @@ title: Personal Website
 
 #### Posters
 
-* "Referenzarchitektur für die OZG-Umsetzung in Kommunen", Poster-Session auf dem Gründungstreffen des N3GZ am 4. und 5. Juni in Münster (Link)
+* "Referenzarchitektur für die OZG-Umsetzung in Kommunen", Poster-Session auf dem Gründungstreffen des N3GZ am 4. und 5. Juni in Münster ([Link](https://n3gz.org/2019/09/05/poster-referenzarchitektur-fuer-die-ozg-umsetzung-in-kommunen/))
 
 #### Teaching
 
@@ -64,6 +64,8 @@ Seminar "eGovernment" an der Technische Universität München, Sommersemester 20
 #### Talks
 
 Digitalisierungsthemen der Lokalpolitik, AK Digitales, Grüne München, 17.06.2019; ([Slides](https://speakerdeck.com/nhukretep/digitalisierungsthemen-der-lokalpolitik))
+
+Sience Slam, Zentrum Digitalisierung Bayern, 06.12.2019; ([Video](https://www.youtube.com/watch?v=eG5EuuUYZFQ))
 
 ## Vita
 
