@@ -46,8 +46,6 @@ title: Personal Website
 
 #### Workshops
 
-* *"Information Systems Perspective on E-Government in Germany"*, CDTM Trend Seminar 2020, München, 05.03.2020 ([Slides](https://speakerdeck.com/nhukretep/information-systems-perspective-on-e-government-in-germany))
-
 * *"Nutzerfreundliche Formulare sind gut, keine Formulare sind besser"*, Creative Bureaucracy Festival 2019, Berlin, 21.09.2019 ([Slides](https://speakerdeck.com/nhukretep/nutzerfreundliche-formulare-sind-gut-keine-formulare-sind-besser))
 
 * *"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival 2018, Berlin, 08.09.2018 ([Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor))
@@ -60,6 +58,9 @@ title: Personal Website
 
 Seminar "eGovernment" an der Technische Universität München, Sommersemester 2019
 * Einführung in die Domäne E-Government ([Slides](https://speakerdeck.com/nhukretep/einfuhrung-e-government))
+
+CDTM Trend Seminar 2020, München, 05.03.2020
+* Information Systems Perspective on E-Government in Germany ([Slides](https://speakerdeck.com/nhukretep/information-systems-perspective-on-e-government-in-germany))
 
 #### Talks
 
