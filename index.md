@@ -63,9 +63,9 @@ Seminar "eGovernment" an der Technische Universität München, Sommersemester 20
 
 #### Talks
 
-Digitalisierungsthemen der Lokalpolitik, AK Digitales, Grüne München, 17.06.2019; ([Slides](https://speakerdeck.com/nhukretep/digitalisierungsthemen-der-lokalpolitik))
+* Science Slam, Zentrum Digitalisierung Bayern, 06.12.2019; ([Video](https://www.youtube.com/watch?v=eG5EuuUYZFQ))
 
-Sience Slam, Zentrum Digitalisierung Bayern, 06.12.2019; ([Video](https://www.youtube.com/watch?v=eG5EuuUYZFQ))
+* Digitalisierungsthemen der Lokalpolitik, AK Digitales, Grüne München, 17.06.2019; ([Slides](https://speakerdeck.com/nhukretep/digitalisierungsthemen-der-lokalpolitik))
 
 ## Vita
 
