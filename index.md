@@ -34,7 +34,7 @@ title: Personal Website
 
 2020
 
-* *"Was sind Herausforderungen proaktiver Verwaltungsleistungen in Deutschland?"*, Internationale Tagung Wirtschaftsinformatik 2020, Peter Kuhn, Dian Balta, Helmut Krcmar. ([Link](https://library.gito.de/oa_wi2020-e4.html))
+* *"Was sind Herausforderungen proaktiver Verwaltungsleistungen in Deutschland?"*, Internationale Tagung Wirtschaftsinformatik 2020, Peter Kuhn, Dian Balta, Helmut Krcmar. ([Link](https://library.gito.de/oa_wi2020-e4.html)) ([Open Access](https://library.gito.de/open-access-pdf/E4_Paper_WI-2020_final_rev_final_cameraready.pdf))
 
 2019
 
