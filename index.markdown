@@ -1,9 +1,7 @@
 ---
-layout: default
-title: Personal Website
+layout: home
+title: Peter Kuhn
 ---
-
-# Peter Kuhn
 
 ![profilpic](.\profilpic.jpg)
 
@@ -32,7 +30,7 @@ title: Personal Website
 
 #### Paper
 
-2020
+*"How to Streamline AI Application in Government? A Case Study on Citizen Participation in Germany"*, IFIP EGOV-CeDEMePart 2019, Dian Balta, Peter Kuhn, Helmut Krcmar, Daniel Kulus, Claudius Lieven and Mahdi Sellami. ([Link](https://doi.org/10.1007/978-3-030-27325-5_18))
 
 * *"Was sind Herausforderungen proaktiver Verwaltungsleistungen in Deutschland?"*, Internationale Tagung Wirtschaftsinformatik 2020, Peter Kuhn, Dian Balta, Helmut Krcmar. ([Link](https://library.gito.de/oa_wi2020-e4.html)) ([Open Access](https://library.gito.de/open-access-pdf/E4_Paper_WI-2020_final_rev_final_cameraready.pdf))
 
