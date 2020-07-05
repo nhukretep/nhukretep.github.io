@@ -30,9 +30,10 @@ title: Peter Kuhn
 
 #### Paper
 
-*"How to Streamline AI Application in Government? A Case Study on Citizen Participation in Germany"*, IFIP EGOV-CeDEMePart 2019, Dian Balta, Peter Kuhn, Helmut Krcmar, Daniel Kulus, Claudius Lieven and Mahdi Sellami. ([Link](https://doi.org/10.1007/978-3-030-27325-5_18))
+2020
 
-* *"Was sind Herausforderungen proaktiver Verwaltungsleistungen in Deutschland?"*, Internationale Tagung Wirtschaftsinformatik 2020, Peter Kuhn, Dian Balta, Helmut Krcmar. ([Link](https://library.gito.de/oa_wi2020-e4.html)) ([Open Access](https://library.gito.de/open-access-pdf/E4_Paper_WI-2020_final_rev_final_cameraready.pdf))
+* *"Towards proactive government: the concept of non-interaction"*, IFIP EGOV 2020, Peter Kuhn und Dian Balta. FORTHCOMING
+* *"Was sind Herausforderungen proaktiver Verwaltungsleistungen in Deutschland?"*, Internationale Tagung Wirtschaftsinformatik 2020, Peter Kuhn, Dian Balta und Helmut Krcmar. ([Link](https://library.gito.de/oa_wi2020-e4.html)) ([Open Access](https://library.gito.de/open-access-pdf/E4_Paper_WI-2020_final_rev_final_cameraready.pdf))
 
 2019
 
@@ -54,10 +55,18 @@ title: Peter Kuhn
 
 #### Teaching
 
-Seminar "eGovernment" an der Technische Universität München, Sommersemester 2019
-* Einführung in die Domäne E-Government ([Slides](https://speakerdeck.com/nhukretep/einfuhrung-e-government))
+Seminar "eGovernment" an der Technische Universität München, Betreuung und Einführung
 
-CDTM Trend Seminar 2020, München, 05.03.2020
+* Sommersemester 2020: Einführung in E-Government als Informationssystem (Slides)
+
+* Sommersemester 2019: Einführung in die Domäne E-Government ([Slides](https://speakerdeck.com/nhukretep/einfuhrung-e-government))
+
+Seminar "IT-Recht in der öffentlichen Verwaltung: E-Government-Gesetz, IT-Sicherheit und Auftragsvergabe", Technische Universität München, Gastvortrag 
+
+* Wintersemester 2019: "Nutzerfreundlichkeit bei der OZG-Umsetzung in Kommunen – von der Zielsetzung zur technischen Implementierung"
+
+CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
+
 * Information Systems Perspective on E-Government in Germany ([Slides](https://speakerdeck.com/nhukretep/information-systems-perspective-on-e-government-in-germany))
 
 #### Talks
