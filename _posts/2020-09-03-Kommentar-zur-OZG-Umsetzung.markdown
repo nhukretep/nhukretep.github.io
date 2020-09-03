@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mein Einstieg in E-Government"
+title:  "Warum die OZG-Umsetzung nicht einfach ist und fünf Strategien, die helfen können"
 date:   2020-09-03 17:30:00 +0000
 categories: blog
 ---
