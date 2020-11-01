@@ -22,6 +22,7 @@ title: Peter Kuhn
 
 #### Projects
 
+* Plattform- und Ökosystemansätze in der Verwaltungsdigitalisierung
 * Enterprise Architecture for E-Government in Municipalities
 * Proactive Government and No-Stop-Shop
 * Sharing Economy in the Public Sector
@@ -33,7 +34,7 @@ title: Peter Kuhn
 
 2020
 
-* *"Service Quality Through Government Proactivity: The Concept of Non-interaction"*, IFIP EGOV 2020, Peter Kuhn und Dian Balta. ([Link](http://dx.doi.org/10.1007/978-3-030-57599-1_7))
+* *"Service Quality Through Government Proactivity: The Concept of Non-interaction"*, IFIP EGOV 2020, Peter Kuhn und Dian Balta, best paper nomination. ([Link](http://dx.doi.org/10.1007/978-3-030-57599-1_7))
 * *"Was sind Herausforderungen proaktiver Verwaltungsleistungen in Deutschland?"*, Internationale Tagung Wirtschaftsinformatik 2020, Peter Kuhn, Dian Balta und Helmut Krcmar. ([Link](https://library.gito.de/oa_wi2020-e4.html)) ([Open Access](https://library.gito.de/open-access-pdf/E4_Paper_WI-2020_final_rev_final_cameraready.pdf))
 
 2019
@@ -46,8 +47,8 @@ title: Peter Kuhn
 
 ### Workshops
 
+* *"Plattformansätze in der Verwaltungsdigitalisierung"*, NEGZ Herbsttagung 2020, 29.10.2020 ([Video](https://www.youtube.com/watch?v=RzcXcdU06dE), [Slides](https://speakerdeck.com/nhukretep/einfuhrung-zu-plattformansatzen-in-der-verwaltungsdigitalisierung))
 * *"Nutzerfreundliche Formulare sind gut, keine Formulare sind besser"*, Creative Bureaucracy Festival 2019, Berlin, 21.09.2019 ([Slides](https://speakerdeck.com/nhukretep/nutzerfreundliche-formulare-sind-gut-keine-formulare-sind-besser))
-
 * *"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival 2018, Berlin, 08.09.2018 ([Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor))
 
 ### Posters
@@ -77,6 +78,7 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 
 ### Other Texts
 
+* Bericht zum Projekt "LEA" mit der Landeshauptstadt München auf muenchen.digital ([Link](https://muenchen.digital/blog/begleitforschung-e-government/))
 * Kommentar zur OZG-Umsetzung für N3GZ *"Warum die OZG-Umsetzung nicht einfach ist und fünf Strategien, die helfen können"* ([Link](https://n3gz.org/2020/08/21/warum-die-ozg-umsetzung-nicht-einfach-ist-und-fuenf-strategien-die-helfen-koennen/))
 
 ## Vita
