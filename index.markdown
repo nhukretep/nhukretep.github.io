@@ -7,7 +7,7 @@ title: Peter Kuhn
 
 ### Research Assistent @ [fortiss](https://fortiss.org)
 
-*Photo: R. Schleisinger*
+*Foto: R. Schleisinger*
 
 ## Research
 
