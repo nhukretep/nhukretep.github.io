@@ -5,7 +5,7 @@ title: Peter Kuhn
 
 ![profilpic](.\profilpic.jpg)
 
-### Research Assistent @ [fortiss](https://fortiss.org)
+### Researcher @ [fortiss](https://fortiss.org)
 
 *Photo: R. Schleisinger*
 
@@ -32,18 +32,19 @@ title: Peter Kuhn
 
 ### Paper
 
+2021
+
+* *"Towards Interoperability of Smart City Data Platforms"*, *Proceedings of the 54th Hawaii International Conference on System Sciences (HICSS 2021)*, Matthias Buchinger, Peter Kuhn, Anastasios Kalogeropoulos und Dian Balta, FORTHCOMING
+
 2020
 
-* *"Service Quality Through Government Proactivity: The Concept of Non-interaction"*, IFIP EGOV 2020, Peter Kuhn und Dian Balta, best paper nomination. ([Link](http://dx.doi.org/10.1007/978-3-030-57599-1_7))
+* *"Service Quality Through Government Proactivity: The Concept of Non-interaction"*, IFIP EGOV 2020, Peter Kuhn und Dian Balta, best paper nomination. ([Link](http://dx.doi.org/10.1007/978-3-030-57599-1_7), Video)
 * *"Was sind Herausforderungen proaktiver Verwaltungsleistungen in Deutschland?"*, Internationale Tagung Wirtschaftsinformatik 2020, Peter Kuhn, Dian Balta und Helmut Krcmar. ([Link](https://library.gito.de/oa_wi2020-e4.html)) ([Open Access](https://library.gito.de/open-access-pdf/E4_Paper_WI-2020_final_rev_final_cameraready.pdf))
 
 2019
 
 * *"How to Streamline AI Application in Government? A Case Study on Citizen Participation in Germany"*, IFIP EGOV-CeDEMePart 2019, Dian Balta, Peter Kuhn, Helmut Krcmar, Daniel Kulus, Claudius Lieven and Mahdi Sellami. ([Link](https://doi.org/10.1007/978-3-030-27325-5_18))
-
 * *"Sharing Economy: Potential im öffentlichen Sektor"*, NEGZ-Kurzstudie Nr.5, 07/2019, Dian Balta, Sara Hofmann, Peter Kuhn, Helmut Krcmar. ([Link](https://negz.org/projekte-publikationen/))
-
-* *"Digitalgestützte Bürgerbeteiligung & KI - Anwendungsbeispiele, Chancen und Herausforderungen"*, PLANERIN 1/2019, S. 19- 22, Dian Balta, Helmut Krcmar, Peter Kuhn, Daniel Kulus, Mahdi Sellami.
 
 ### Workshops
 
@@ -76,8 +77,14 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 * Science Slam, Zentrum Digitalisierung Bayern, 06.12.2019; ([Video](https://www.youtube.com/watch?v=eG5EuuUYZFQ))
 * Digitalisierungsthemen der Lokalpolitik, AK Digitales, Grüne München, 17.06.2019; ([Slides](https://speakerdeck.com/nhukretep/digitalisierungsthemen-der-lokalpolitik))
 
-### Other Texts
+### Editing
 
+Associate Editor at "16. Internationale Tagung Wirtschaftsinformatik" (WI2021), Track "Smart City & E-Government". ([Link](https://wi2021.de/smart-city-e-government-2/))
+
+### Other Publications
+
+* Zu Gast beim E-Government-Podcast, Folge "OZG - Eine aktuelle Zusammenfassung", November 2020. ([Link](https://egovernment-podcast.com/egov067-ozg-eine-aktuelle-zusammenfassung/))
+* *"Digitalgestützte Bürgerbeteiligung & KI - Anwendungsbeispiele, Chancen und Herausforderungen"*, PLANERIN 1/2019, S. 19- 22, Dian Balta, Helmut Krcmar, Peter Kuhn, Daniel Kulus, Mahdi Sellami.
 * Bericht zum Projekt "LEA" mit der Landeshauptstadt München auf muenchen.digital ([Link](https://muenchen.digital/blog/begleitforschung-e-government/))
 * Kommentar zur OZG-Umsetzung für N3GZ *"Warum die OZG-Umsetzung nicht einfach ist und fünf Strategien, die helfen können"* ([Link](https://n3gz.org/2020/08/21/warum-die-ozg-umsetzung-nicht-einfach-ist-und-fuenf-strategien-die-helfen-koennen/))
 
