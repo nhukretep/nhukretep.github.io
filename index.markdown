@@ -34,7 +34,7 @@ title: Peter Kuhn
 
 2021
 
-* *"Towards Interoperability of Smart City Data Platforms"*, *Proceedings of the 54th Hawaii International Conference on System Sciences (HICSS 2021)*, Matthias Buchinger, Peter Kuhn, Anastasios Kalogeropoulos und Dian Balta, FORTHCOMING
+* *"Towards Interoperability of Smart City Data Platforms"*, *Proceedings of the 54th Hawaii International Conference on System Sciences (HICSS 2021)*, Matthias Buchinger, Peter Kuhn, Anastasios Kalogeropoulos und Dian Balta. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/70914)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/70914/0241.pdf))
 
 2020
 
