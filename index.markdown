@@ -34,7 +34,10 @@ title: Peter Kuhn
 
 2021
 
+* *"How to Redesign Government Processes for Proactive Public Services?"*, IFIP EGOV 2021, Peter Kuhn, Matthias Buchinger und Dian Balta. ([Link](http://dx.doi.org/10.1007/978-3-030-84789-0_3), Video)
+* *"Accountable Federated Machine Learning in Government: Engineering and Management Insights"*, IFIP EGOV 2021, Dian Balta, Mahdi Sellami, Peter Kuhn, best paper award. ([Link](http://dx.doi.org/10.1007/978-3-030-82824-0_10), Video)
 * *"Towards Interoperability of Smart City Data Platforms"*, *Proceedings of the 54th Hawaii International Conference on System Sciences (HICSS 2021)*, Matthias Buchinger, Peter Kuhn, Anastasios Kalogeropoulos und Dian Balta. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/70914)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/70914/0241.pdf))
+* "*Towards Interoperability of Data Platforms for Smart Cities*", Handbook of Smart Cities, Matthias Buchinger, Peter Kuhn und Dian Balta. ([Link](https://link.springer.com/referenceworkentry/10.1007/978-3-030-15145-4_70-1))
 
 2020
 
@@ -44,7 +47,6 @@ title: Peter Kuhn
 2019
 
 * *"How to Streamline AI Application in Government? A Case Study on Citizen Participation in Germany"*, IFIP EGOV-CeDEMePart 2019, Dian Balta, Peter Kuhn, Helmut Krcmar, Daniel Kulus, Claudius Lieven and Mahdi Sellami. ([Link](https://doi.org/10.1007/978-3-030-27325-5_18))
-* *"Sharing Economy: Potential im öffentlichen Sektor"*, NEGZ-Kurzstudie Nr.5, 07/2019, Dian Balta, Sara Hofmann, Peter Kuhn, Helmut Krcmar. ([Link](https://negz.org/projekte-publikationen/))
 
 ### Workshops
 
@@ -54,23 +56,32 @@ title: Peter Kuhn
 
 ### Posters
 
+* "From IT-Silos to Platform-Oriented IT infrastructures: A strcutured approach", fortiss colloquium, Peter Kuhn (Link)
+* "Barriers of Government as a Platform in Practice", IFIP EGOV 2021, Peter Kuhn, Matthias Buchinger and Dian Balta, (Link)
 * "Referenzarchitektur für die OZG-Umsetzung in Kommunen", Poster-Session auf dem Gründungstreffen des N3GZ am 4. und 5. Juni in Münster ([Link](https://n3gz.org/2019/09/05/poster-referenzarchitektur-fuer-die-ozg-umsetzung-in-kommunen/))
 
 ### Teaching
 
 Seminar "eGovernment" an der Technische Universität München, Betreuung und Einführung
 
+* Sommersemester 2021: Einführung in E-Government als Informationssystem (Slides)
 * Sommersemester 2020: Einführung in E-Government als Informationssystem ([Slides](https://speakerdeck.com/nhukretep/einfuhrung-e-government-als-informationssystem))
-
 * Sommersemester 2019: Einführung in die Domäne E-Government ([Slides](https://speakerdeck.com/nhukretep/einfuhrung-e-government))
 
 Seminar "IT-Recht in der öffentlichen Verwaltung: E-Government-Gesetz, IT-Sicherheit und Auftragsvergabe", Technische Universität München, Gastvortrag 
 
-* Wintersemester 2019: "Nutzerfreundlichkeit bei der OZG-Umsetzung in Kommunen – von der Zielsetzung zur technischen Implementierung"
+* Wintersemester 2020/2021: "Nutzerfreundlichkeit, Government as a Platform und die Zukunft der Verwaltung" ([Slides](https://speakerdeck.com/nhukretep/nutzerfreundlichkeit-government-as-a-platform-und-die-zukunft-der-verwaltung))
+* Wintersemester 2019/2020: "Nutzerfreundlichkeit bei der OZG-Umsetzung in Kommunen – von der Zielsetzung zur technischen Implementierung"
 
 CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 
 * Information Systems Perspective on E-Government in Germany ([Slides](https://speakerdeck.com/nhukretep/information-systems-perspective-on-e-government-in-germany))
+
+### Studies
+
+*"Verwaltung. Digitalisierung. Plattform. Kurzstudie zur Koordination und Gestaltung der deutschen Verwaltungsdigitalisierung mit Plattformökosystemen"*, im Auftrag der FITKO, Frühjahr 2021, Peter Kuhn, Matthias Buchinger, Micha Lutz, Dian Balta. ([Link](https://www.fortiss.org/fileadmin/user_upload/05_Veroeffentlichungen/Informationsmaterialien/Studie_fortiss_FITKO_VerwaltungDigitalisierungPlattform_web.pdf))
+
+*"Sharing Economy: Potential im öffentlichen Sektor"*, NEGZ-Kurzstudie Nr.5, 07/2019, Dian Balta, Sara Hofmann, Peter Kuhn, Helmut Krcmar. ([Link](https://negz.org/projekte-publikationen/))
 
 ### Talks
 
@@ -83,10 +94,11 @@ Associate Editor at "16. Internationale Tagung Wirtschaftsinformatik" (WI2021), 
 
 ### Other Publications
 
+* Kommentar zur Bundestagswahl für N3GZ: "*3 E-Government-Fragen, die die nächste Bundesregierung beantworten muss*" ([Link](https://n3gz.org/2021/07/13/3-e-government-fragen-die-die-naechste-bundesregierung-beantworten-muss/))
 * Zu Gast beim E-Government-Podcast, Folge "OZG - Eine aktuelle Zusammenfassung", November 2020. ([Link](https://egovernment-podcast.com/egov067-ozg-eine-aktuelle-zusammenfassung/))
 * *"Digitalgestützte Bürgerbeteiligung & KI - Anwendungsbeispiele, Chancen und Herausforderungen"*, PLANERIN 1/2019, S. 19- 22, Dian Balta, Helmut Krcmar, Peter Kuhn, Daniel Kulus, Mahdi Sellami.
 * Bericht zum Projekt "LEA" mit der Landeshauptstadt München auf muenchen.digital ([Link](https://muenchen.digital/blog/begleitforschung-e-government/))
-* Kommentar zur OZG-Umsetzung für N3GZ *"Warum die OZG-Umsetzung nicht einfach ist und fünf Strategien, die helfen können"* ([Link](https://n3gz.org/2020/08/21/warum-die-ozg-umsetzung-nicht-einfach-ist-und-fuenf-strategien-die-helfen-koennen/))
+* Kommentar zur OZG-Umsetzung für N3GZ: *"Warum die OZG-Umsetzung nicht einfach ist und fünf Strategien, die helfen können"* ([Link](https://n3gz.org/2020/08/21/warum-die-ozg-umsetzung-nicht-einfach-ist-und-fuenf-strategien-die-helfen-koennen/))
 
 ## Vita
 
