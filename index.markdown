@@ -3,9 +3,9 @@ layout: home
 title: Peter Kuhn
 ---
 
-![profilpic](.\profilepic.jpg)
-
 ### Researcher @ [fortiss](https://fortiss.org)
+
+![profilpic](.\profilepic.jpg)
 
 *Photo: R. Schleisinger*
 
