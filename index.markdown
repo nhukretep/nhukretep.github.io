@@ -3,7 +3,7 @@ layout: home
 title: Peter Kuhn
 ---
 
-![profilpic](.\profilpic.jpg)
+![profilpic](.\profilepic.jpg)
 
 ### Researcher @ [fortiss](https://fortiss.org)
 
@@ -32,9 +32,14 @@ title: Peter Kuhn
 
 ### Paper
 
+2022
+
+* *"Barriers of applying Government as a Platform in Practice:  Evidence from Germany"*, *Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS 2022)*, Peter Kuhn, Matthias Buchinger, Dian Balta and Florian Matthes. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/79661)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/79661/0261.pdf))
+* *"Dimensions of Accountability in Inter-organizational Business Processes"*, *Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS 2022)*, Matthias Buchinger, Peter Kuhn and Dian Balta. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/79382)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/79382/0043.pdf))
+
 2021
 
-* *"How to Redesign Government Processes for Proactive Public Services?"*, IFIP EGOV 2021, Peter Kuhn, Matthias Buchinger und Dian Balta. ([Link](http://dx.doi.org/10.1007/978-3-030-84789-0_3), Video)
+* *"How to Redesign Government Processes for Proactive Public Services?"*, IFIP EGOV 2021, Peter Kuhn, Matthias Buchinger and Dian Balta. ([Link](http://dx.doi.org/10.1007/978-3-030-84789-0_3), Video)
 * *"Accountable Federated Machine Learning in Government: Engineering and Management Insights"*, IFIP EGOV 2021, Dian Balta, Mahdi Sellami, Peter Kuhn, best paper award. ([Link](http://dx.doi.org/10.1007/978-3-030-82824-0_10), Video)
 * *"Towards Interoperability of Smart City Data Platforms"*, *Proceedings of the 54th Hawaii International Conference on System Sciences (HICSS 2021)*, Matthias Buchinger, Peter Kuhn, Anastasios Kalogeropoulos und Dian Balta. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/70914)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/70914/0241.pdf))
 * "*Towards Interoperability of Data Platforms for Smart Cities*", Handbook of Smart Cities, Matthias Buchinger, Peter Kuhn und Dian Balta. ([Link](https://link.springer.com/referenceworkentry/10.1007/978-3-030-15145-4_70-1))
