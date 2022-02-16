@@ -3,11 +3,9 @@ layout: home
 title: Peter Kuhn
 ---
 
-### Researcher @ [fortiss](https://fortiss.org)
+### Researcher @ [fortiss](https://fortiss.org), Doctoral Student at [sebis/TUM](https://wwwmatthes.in.tum.de/) 
 
 ![profilpic](.\profilepic.jpg)
-
-*Photo: R. Schleisinger*
 
 ## Research
 
@@ -34,6 +32,7 @@ title: Peter Kuhn
 
 2022
 
+* *"Towards “Government as a Platform”: An analysis framework for public sector infrastructure"*, Internationale Tagung Wirtschaftsinformatik 2022, Peter Kuhn, Simon Dallner, Matthias Buchinger und Dian Balta. ([Link](https://aisel.aisnet.org/wi2022/e_government/e_government/4)) ([Open Access](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1078&context=wi2022))
 * *"Barriers of applying Government as a Platform in Practice:  Evidence from Germany"*, *Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS 2022)*, Peter Kuhn, Matthias Buchinger, Dian Balta and Florian Matthes. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/79661)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/79661/0261.pdf))
 * *"Dimensions of Accountability in Inter-organizational Business Processes"*, *Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS 2022)*, Matthias Buchinger, Peter Kuhn and Dian Balta. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/79382)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/79382/0043.pdf))
 
@@ -47,7 +46,7 @@ title: Peter Kuhn
 2020
 
 * *"Service Quality Through Government Proactivity: The Concept of Non-interaction"*, IFIP EGOV 2020, Peter Kuhn und Dian Balta, best paper nomination. ([Link](http://dx.doi.org/10.1007/978-3-030-57599-1_7), Video)
-* *"Was sind Herausforderungen proaktiver Verwaltungsleistungen in Deutschland?"*, Internationale Tagung Wirtschaftsinformatik 2020, Peter Kuhn, Dian Balta und Helmut Krcmar. ([Link](https://library.gito.de/oa_wi2020-e4.html)) ([Open Access](https://library.gito.de/open-access-pdf/E4_Paper_WI-2020_final_rev_final_cameraready.pdf))
+* *"Was sind Herausforderungen proaktiver Verwaltungsleistungen in Deutschland?"*, Internationale Tagung Wirtschaftsinformatik 2020, Peter Kuhn, Dian Balta und Helmut Krcmar. ([Link](https://library.gito.de/2021/07/wi2020-zentrale-tracks-40/)) ([Open Access](https://library.gito.de/wp-content/uploads/2021/08/E4_Paper_WI-2020_final_rev_final_cameraready.pdf))
 
 2019
 
