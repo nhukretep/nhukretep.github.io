@@ -3,7 +3,7 @@ layout: home
 title: Peter Kuhn
 ---
 
-### Researcher @ [fortiss](https://fortiss.org), Doctoral Student at [sebis/TUM](https://wwwmatthes.in.tum.de/) 
+### Researcher @ [fortiss](https://fortiss.org), Doctoral Student @ [sebis/TUM](https://wwwmatthes.in.tum.de/) 
 
 ![profilpic](.\profilepic.jpg)
 
