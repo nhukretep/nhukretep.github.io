@@ -31,7 +31,7 @@ title: Peter Kuhn
 ### Paper
 
 2022
-
+* *"Closing the GaaP: Lessons Learned from a Web-based Analysis Tool for Practitioners"*, *Ongoing Research, Practitioners, Posters, Workshops, and Projects at EGOV-CeDEM-ePart 2022, CEUR Workshop Proceedings*, Peter Kuhn, Dian Balta und Florian Matthes. (Link)
 * *"Towards “Government as a Platform”: An analysis framework for public sector infrastructure"*, Internationale Tagung Wirtschaftsinformatik 2022, Peter Kuhn, Simon Dallner, Matthias Buchinger und Dian Balta. ([Link](https://aisel.aisnet.org/wi2022/e_government/e_government/4)) ([Open Access](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1078&context=wi2022))
 * *"Barriers of applying Government as a Platform in Practice:  Evidence from Germany"*, *Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS 2022)*, Peter Kuhn, Matthias Buchinger, Dian Balta and Florian Matthes. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/79661)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/79661/0261.pdf))
 * *"Dimensions of Accountability in Inter-organizational Business Processes"*, *Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS 2022)*, Matthias Buchinger, Peter Kuhn and Dian Balta. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/79382)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/79382/0043.pdf))
@@ -54,12 +54,14 @@ title: Peter Kuhn
 
 ### Workshops
 
+* *"How to Government as a Platform in Deutschland?"*, PIAZZA Konferenz 2022, 07.12.2022 ([Outline](https://piazza-konferenz.de/die-workshops/2022_government-as-a-platform/))
 * *"Plattformansätze in der Verwaltungsdigitalisierung"*, NEGZ Herbsttagung 2020, 29.10.2020 ([Video](https://www.youtube.com/watch?v=RzcXcdU06dE), [Slides](https://speakerdeck.com/nhukretep/einfuhrung-zu-plattformansatzen-in-der-verwaltungsdigitalisierung))
 * *"Nutzerfreundliche Formulare sind gut, keine Formulare sind besser"*, Creative Bureaucracy Festival 2019, Berlin, 21.09.2019 ([Slides](https://speakerdeck.com/nhukretep/nutzerfreundliche-formulare-sind-gut-keine-formulare-sind-besser))
 * *"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival 2018, Berlin, 08.09.2018 ([Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor))
 
 ### Posters
 
+* "Platform Engineering in the Government Domain", sebis day 2022, Peter Kuhn und Florian Matthes (Link)
 * "From IT-Silos to Platform-Oriented IT infrastructures: A strcutured approach", fortiss colloquium, Peter Kuhn (Link)
 * "Barriers of Government as a Platform in Practice", IFIP EGOV 2021, Peter Kuhn, Matthias Buchinger and Dian Balta, (Link)
 * "Referenzarchitektur für die OZG-Umsetzung in Kommunen", Poster-Session auf dem Gründungstreffen des N3GZ am 4. und 5. Juni in Münster ([Link](https://n3gz.org/2019/09/05/poster-referenzarchitektur-fuer-die-ozg-umsetzung-in-kommunen/))
@@ -94,15 +96,24 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 
 ### Editing
 
-Associate Editor at "16. Internationale Tagung Wirtschaftsinformatik" (WI2021), Track "Smart City & E-Government". ([Link](https://wi2021.de/smart-city-e-government-2/))
+* Associate Editor at "16. Internationale Tagung Wirtschaftsinformatik" (WI2021), Track "Smart City & E-Government". ([Link](https://wi2021.de/smart-city-e-government-2/))
+* Editing for WI (2022, 2021), ICIS 2022, IFIP EGOV (2022, 2021)
 
 ### Other Publications
 
+* Blog-Eintrag für die PIAZZA-Konferenz 2022, "Die föderale IT-Infrastruktur und das OZG 2.0 – how to make it work", Oktober 2022. [Link](https://piazza-konferenz.de/2022/10/05/die-foderale-it-infrastruktur-und-das-ozg-2-0/)
+* Zu Gast beim E-Government-Podcast, Folge "OZG 2.0: Zeit für die Infrastruktur", Juli 2022. ([Link](https://egovernment-podcast.com/egov112-ozg20/))
 * Kommentar zur Bundestagswahl für N3GZ: "*3 E-Government-Fragen, die die nächste Bundesregierung beantworten muss*" ([Link](https://n3gz.org/2021/07/13/3-e-government-fragen-die-die-naechste-bundesregierung-beantworten-muss/))
+* Kommentar im Tagesspiegel Background zusammen mit Moreen Heine, Juni 2022. ([Link](https://background.tagesspiegel.de/digitalisierung/ozg-2-0-zeit-fuer-die-infrastruktur))
 * Zu Gast beim E-Government-Podcast, Folge "OZG - Eine aktuelle Zusammenfassung", November 2020. ([Link](https://egovernment-podcast.com/egov067-ozg-eine-aktuelle-zusammenfassung/))
 * *"Digitalgestützte Bürgerbeteiligung & KI - Anwendungsbeispiele, Chancen und Herausforderungen"*, PLANERIN 1/2019, S. 19- 22, Dian Balta, Helmut Krcmar, Peter Kuhn, Daniel Kulus, Mahdi Sellami.
 * Bericht zum Projekt "LEA" mit der Landeshauptstadt München auf muenchen.digital ([Link](https://muenchen.digital/blog/begleitforschung-e-government/))
 * Kommentar zur OZG-Umsetzung für N3GZ: *"Warum die OZG-Umsetzung nicht einfach ist und fünf Strategien, die helfen können"* ([Link](https://n3gz.org/2020/08/21/warum-die-ozg-umsetzung-nicht-einfach-ist-und-fuenf-strategien-die-helfen-koennen/))
+
+## In the media
+* [https://netzpolitik.org/2022/reform-des-onlinezugangsgesetzes-entscheidende-standards-fehlen-noch-immer/](https://netzpolitik.org/2022/reform-des-onlinezugangsgesetzes-entscheidende-standards-fehlen-noch-immer/)
+* [https://netzpolitik.org/2022/onlinezugangsgesetz-mit-open-source-in-richtung-unabhaengigkeit/](https://netzpolitik.org/2022/onlinezugangsgesetz-mit-open-source-in-richtung-unabhaengigkeit/)
+* [https://netzpolitik.org/2022/onlinezugangsgesetz-ohne-schnittstellen-ist-kein-digitaler-staat-zu-machen/](https://netzpolitik.org/2022/onlinezugangsgesetz-ohne-schnittstellen-ist-kein-digitaler-staat-zu-machen/)
 
 ## Vita
 
