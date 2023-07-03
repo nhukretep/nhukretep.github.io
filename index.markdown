@@ -58,7 +58,7 @@ title: Peter Kuhn
 ### Book chapters
 
 2023
-* *"Proaktive Verwaltungsleistungen"*, Handbuch Digitalisierung der Verwaltung, Peter Kuhn [Link](https://www.utb.de/doi/abs/10.36198/9783838559292-406-419)
+* *"Proaktive Verwaltungsleistungen"*, Handbuch Digitalisierung der Verwaltung, Peter Kuhn ([Link](https://www.utb.de/doi/abs/10.36198/9783838559292-406-419))
 
 ### Workshops
 
