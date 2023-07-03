@@ -97,6 +97,7 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 
 ### Editing
 
+* Program committee member at the "IFIP EGOV-CeDEM-ePart 2023 conference" (IFIP EGOV 2023), Track "General EGOV" ([Link](https://dgsociety.org/egov-2023/)) 
 * Associate Editor at "18. Internationale Tagung Wirtschaftsinformatik" (WI2023), Track "Smart Cities & Digital Government" ([Link](https://wi2023.de/track-17/))
 * Associate Editor at "16. Internationale Tagung Wirtschaftsinformatik" (WI2021), Track "Smart City & E-Government". ([Link](https://wi2021.de/smart-city-e-government-2/))
 * Reviews for GIQ, WI (2022, 2021), ICIS 2022, IFIP EGOV (2022, 2021)
