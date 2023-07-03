@@ -20,16 +20,16 @@ title: Peter Kuhn
 
 #### Projects
 
-* Plattform- und Ökosystemansätze in der Verwaltungsdigitalisierung
-* Enterprise Architecture for E-Government in Municipalities
+* Government as a Platform in practice
 * Proactive Government and No-Stop-Shop
-* Sharing Economy in the Public Sector
-* Citizen Participation using Chatbots and AI
 
 ## Publications
 
-### Paper
+### Papers
 
+2023
+* *"Government as a Platform in practice: Commonalities and differences across three European Countries"*, IFIP EGOV 2023, Peter Kuhn, Giulia Maragno, Dian Balta, Luca Gastaldi, and Florian Matthes. FORTHCOMING ([Link]() )
+* *"Toward Government as a Platform: An Analysis Method for Public Sector Infrastructure"*, Internationale Tagung Wirtschaftsinformatik 2023, Peter Kuhn, Liudmila Zavolokina, Dian Balta and Florian Matthes. FORTHCOMING ([Link]()) ([Open Access]())
 2022
 * *"Closing the GaaP: Lessons Learned from a Web-based Analysis Tool for Practitioners"*, *Ongoing Research, Practitioners, Posters, Workshops, and Projects at EGOV-CeDEM-ePart 2022, CEUR Workshop Proceedings*, Peter Kuhn, Dian Balta und Florian Matthes. (Link)
 * *"Towards “Government as a Platform”: An analysis framework for public sector infrastructure"*, Internationale Tagung Wirtschaftsinformatik 2022, Peter Kuhn, Simon Dallner, Matthias Buchinger und Dian Balta. ([Link](https://aisel.aisnet.org/wi2022/e_government/e_government/4)) ([Open Access](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1078&context=wi2022))
@@ -52,19 +52,17 @@ title: Peter Kuhn
 
 * *"How to Streamline AI Application in Government? A Case Study on Citizen Participation in Germany"*, IFIP EGOV-CeDEMePart 2019, Dian Balta, Peter Kuhn, Helmut Krcmar, Daniel Kulus, Claudius Lieven and Mahdi Sellami. ([Link](https://doi.org/10.1007/978-3-030-27325-5_18))
 
+### Book chapters
+
+2023
+* *"Proaktive Verwaltungsleistungen"*, Handbuch Digitalisierung der Verwaltung, Peter Kuhn [Link](https://www.utb.de/doi/abs/10.36198/9783838559292-406-419)
+
 ### Workshops
 
 * *"How to Government as a Platform in Deutschland?"*, PIAZZA Konferenz 2022, 07.12.2022 ([Outline](https://piazza-konferenz.de/die-workshops/2022_government-as-a-platform/))
 * *"Plattformansätze in der Verwaltungsdigitalisierung"*, NEGZ Herbsttagung 2020, 29.10.2020 ([Video](https://www.youtube.com/watch?v=RzcXcdU06dE), [Slides](https://speakerdeck.com/nhukretep/einfuhrung-zu-plattformansatzen-in-der-verwaltungsdigitalisierung))
 * *"Nutzerfreundliche Formulare sind gut, keine Formulare sind besser"*, Creative Bureaucracy Festival 2019, Berlin, 21.09.2019 ([Slides](https://speakerdeck.com/nhukretep/nutzerfreundliche-formulare-sind-gut-keine-formulare-sind-besser))
 * *"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival 2018, Berlin, 08.09.2018 ([Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor))
-
-### Posters
-
-* "Platform Engineering in the Government Domain", sebis day 2022, Peter Kuhn und Florian Matthes (Link)
-* "From IT-Silos to Platform-Oriented IT infrastructures: A strcutured approach", fortiss colloquium, Peter Kuhn (Link)
-* "Barriers of Government as a Platform in Practice", IFIP EGOV 2021, Peter Kuhn, Matthias Buchinger and Dian Balta, (Link)
-* "Referenzarchitektur für die OZG-Umsetzung in Kommunen", Poster-Session auf dem Gründungstreffen des N3GZ am 4. und 5. Juni in Münster ([Link](https://n3gz.org/2019/09/05/poster-referenzarchitektur-fuer-die-ozg-umsetzung-in-kommunen/))
 
 ### Teaching
 
@@ -96,8 +94,9 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 
 ### Editing
 
+* Associate Editor at "18. Internationale Tagung Wirtschaftsinformatik" (WI2023), Track "Smart Cities & Digital Government" ([Link](https://wi2023.de/track-17/))
 * Associate Editor at "16. Internationale Tagung Wirtschaftsinformatik" (WI2021), Track "Smart City & E-Government". ([Link](https://wi2021.de/smart-city-e-government-2/))
-* Editing for WI (2022, 2021), ICIS 2022, IFIP EGOV (2022, 2021)
+* Reviews for GIQ, WI (2022, 2021), ICIS 2022, IFIP EGOV (2022, 2021)
 
 ### Other Publications
 
@@ -117,15 +116,15 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 
 ## Vita
 
-Ich bin in Badisch Franken aufgewachsen und habe in München und Mailand Maschinenbau und VWL studiert. Ich bin Mitglied bei **[N3GZ](https://n3gz.org/)**, dem Nachwuchsnetzwerk für Digitale Verwaltung, und beim **[Netzwerk Plurale Ökonomik](https://www.plurale-oekonomik.de/netzwerk-plurale-oekonomik/)**.
+Ich bin in Badisch Franken aufgewachsen und habe in München und Mailand Maschinenbau und VWL studiert. Ich bin Mitglied bei **[N3GZ](https://n3gz.org/)**, dem Nachwuchsnetzwerk für Digitale Verwaltung.
 
-Beruflich beschäftige ich mich mit den Themen **E-Government und der Digitalisierung der öffentlichen Verwaltung**. Anfang 2018 war ich dazu in mehreren Behörden und Institutionen, mehr dazu [**hier**](https://nhukretep.github.io/eGov-blog/). Seit September 2018 bin ich als wissenschaftlicher Mitarbeiter im Team *Open Data Information Management* bei der [**fortiss**](https://www.fortiss.org) in München tätig.
+Beruflich beschäftige ich mich mit den Themen **E-Government und der Digitalisierung der öffentlichen Verwaltung**. Anfang 2018 war ich dazu in mehreren Behörden und Institutionen, mehr dazu [**hier**](https://nhukretep.github.io/eGov-blog/). Seit September 2018 bin ich als wissenschaftlicher Mitarbeiter im Team *Platform Engineering* bei der [**fortiss**](https://www.fortiss.org) in München tätig.
 
 *+++ English version +++*
 
-I grew up in south Germany and studied Engineering and Economics in Munich and Milan. I am a member of the Network **[N3GZ](https://n3gz.org/)** and the [**Network for Plural Economics**](https://www.exploring-economics.org/en/).
+I grew up in south Germany and studied Engineering and Economics in Munich and Milan. I am a member of the Network **[N3GZ](https://n3gz.org/)**.
 
-I am currently a researcher in the division *Open Data Information Management* at [**fortiss**](https://www.fortiss.org/en/home/) in Munich, working on **E-Government** projects.
+I am currently a researcher in the division *Platform Engineering* at [**fortiss**](https://www.fortiss.org/en/home/) in Munich, working on **E-Government** projects.
 
 ## Contact
 
