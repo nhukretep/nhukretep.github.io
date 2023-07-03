@@ -28,9 +28,12 @@ title: Peter Kuhn
 ### Papers
 
 2023
+
 * *"Government as a Platform in practice: Commonalities and differences across three European Countries"*, IFIP EGOV 2023, Peter Kuhn, Giulia Maragno, Dian Balta, Luca Gastaldi, and Florian Matthes. FORTHCOMING ([Link]() )
 * *"Toward Government as a Platform: An Analysis Method for Public Sector Infrastructure"*, Internationale Tagung Wirtschaftsinformatik 2023, Peter Kuhn, Liudmila Zavolokina, Dian Balta and Florian Matthes. FORTHCOMING ([Link]()) ([Open Access]())
+
 2022
+
 * *"Closing the GaaP: Lessons Learned from a Web-based Analysis Tool for Practitioners"*, *Ongoing Research, Practitioners, Posters, Workshops, and Projects at EGOV-CeDEM-ePart 2022, CEUR Workshop Proceedings*, Peter Kuhn, Dian Balta und Florian Matthes. (Link)
 * *"Towards “Government as a Platform”: An analysis framework for public sector infrastructure"*, Internationale Tagung Wirtschaftsinformatik 2022, Peter Kuhn, Simon Dallner, Matthias Buchinger und Dian Balta. ([Link](https://aisel.aisnet.org/wi2022/e_government/e_government/4)) ([Open Access](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1078&context=wi2022))
 * *"Barriers of applying Government as a Platform in Practice:  Evidence from Germany"*, *Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS 2022)*, Peter Kuhn, Matthias Buchinger, Dian Balta and Florian Matthes. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/79661)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/79661/0261.pdf))
