@@ -117,6 +117,7 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 * [https://netzpolitik.org/2022/reform-des-onlinezugangsgesetzes-entscheidende-standards-fehlen-noch-immer/](https://netzpolitik.org/2022/reform-des-onlinezugangsgesetzes-entscheidende-standards-fehlen-noch-immer/)
 * [https://netzpolitik.org/2022/onlinezugangsgesetz-mit-open-source-in-richtung-unabhaengigkeit/](https://netzpolitik.org/2022/onlinezugangsgesetz-mit-open-source-in-richtung-unabhaengigkeit/)
 * [https://netzpolitik.org/2022/onlinezugangsgesetz-ohne-schnittstellen-ist-kein-digitaler-staat-zu-machen/](https://netzpolitik.org/2022/onlinezugangsgesetz-ohne-schnittstellen-ist-kein-digitaler-staat-zu-machen/)
+* [NEGZ Spezial: Rechtliche Wege zum Plattformansatz](https://www.youtube.com/watch?v=5SnjVSwzrJw)
 
 ## Vita
 
