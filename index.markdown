@@ -3,7 +3,7 @@ layout: home
 title: Peter Kuhn
 ---
 
-### Researcher @ [fortiss](https://fortiss.org), Doctoral Student @ [sebis/TUM](https://wwwmatthes.in.tum.de/) 
+### Researcher @[fortiss](https://fortiss.org), Doctoral Student @[sebis/TUM](https://wwwmatthes.in.tum.de/) 
 
 ![profilpic](.\profilepic.jpg)
 
@@ -15,8 +15,7 @@ title: Peter Kuhn
 * Platform Ecosystems
 * Information Systems
 * Design Science
-* Policy Evaluation 
-* Data Science
+* Policy Evaluation
 
 #### Projects
 
@@ -29,8 +28,8 @@ title: Peter Kuhn
 
 2023
 
-* *"Government as a Platform in practice: Commonalities and differences across three European Countries"*, IFIP EGOV 2023, Peter Kuhn, Giulia Maragno, Dian Balta, Luca Gastaldi, and Florian Matthes. FORTHCOMING (Link)
-* *"Toward Government as a Platform: An Analysis Method for Public Sector Infrastructure"*, Internationale Tagung Wirtschaftsinformatik 2023, Peter Kuhn, Liudmila Zavolokina, Dian Balta and Florian Matthes. FORTHCOMING (Link)
+* *"Government as a Platform in practice: Commonalities and differences across three European Countries"*, IFIP EGOV 2023, Peter Kuhn, Giulia Maragno, Dian Balta, Luca Gastaldi, and Florian Matthes. [Link](https://link.springer.com/chapter/10.1007/978-3-031-41138-0_3)
+* *"Toward Government as a Platform: An Analysis Method for Public Sector Infrastructure"*, Internationale Tagung Wirtschaftsinformatik 2023, Peter Kuhn, Liudmila Zavolokina, Dian Balta and Florian Matthes. [Link](https://aisel.aisnet.org/wi2023/41/)
 
 2022
 
@@ -57,15 +56,7 @@ title: Peter Kuhn
 
 ### Book chapters
 
-2023
 * *"Proaktive Verwaltungsleistungen"*, Handbuch Digitalisierung der Verwaltung, Peter Kuhn ([Link](https://www.utb.de/doi/abs/10.36198/9783838559292-406-419))
-
-### Workshops
-
-* *"How to Government as a Platform in Deutschland?"*, PIAZZA Konferenz 2022, 07.12.2022 ([Outline](https://piazza-konferenz.de/die-workshops/2022_government-as-a-platform/))
-* *"Plattformansätze in der Verwaltungsdigitalisierung"*, NEGZ Herbsttagung 2020, 29.10.2020 ([Video](https://www.youtube.com/watch?v=RzcXcdU06dE), [Slides](https://speakerdeck.com/nhukretep/einfuhrung-zu-plattformansatzen-in-der-verwaltungsdigitalisierung))
-* *"Nutzerfreundliche Formulare sind gut, keine Formulare sind besser"*, Creative Bureaucracy Festival 2019, Berlin, 21.09.2019 ([Slides](https://speakerdeck.com/nhukretep/nutzerfreundliche-formulare-sind-gut-keine-formulare-sind-besser))
-* *"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival 2018, Berlin, 08.09.2018 ([Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor))
 
 ### Teaching
 
@@ -86,14 +77,11 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 
 ### Studies
 
+*"Government as a Platform in Deutschland"*, NEGZ-Kurzstudie Nr. 30, November 2023, Peter Kuhn und Dian Balta. ([Link](https://negz.org/publikation/government-as-a-platform/))
+
 *"Verwaltung. Digitalisierung. Plattform. Kurzstudie zur Koordination und Gestaltung der deutschen Verwaltungsdigitalisierung mit Plattformökosystemen"*, im Auftrag der FITKO, Frühjahr 2021, Peter Kuhn, Matthias Buchinger, Micha Lutz, Dian Balta. ([Link](https://www.fortiss.org/fileadmin/user_upload/05_Veroeffentlichungen/Informationsmaterialien/Studie_fortiss_FITKO_VerwaltungDigitalisierungPlattform_web.pdf))
 
 *"Sharing Economy: Potential im öffentlichen Sektor"*, NEGZ-Kurzstudie Nr.5, 07/2019, Dian Balta, Sara Hofmann, Peter Kuhn, Helmut Krcmar. ([Link](https://negz.org/projekte-publikationen/))
-
-### Talks
-
-* Science Slam, Zentrum Digitalisierung Bayern, 06.12.2019; ([Video](https://www.youtube.com/watch?v=eG5EuuUYZFQ))
-* Digitalisierungsthemen der Lokalpolitik, AK Digitales, Grüne München, 17.06.2019; ([Slides](https://speakerdeck.com/nhukretep/digitalisierungsthemen-der-lokalpolitik))
 
 ### Editing
 
@@ -101,6 +89,18 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 * Associate Editor at "18. Internationale Tagung Wirtschaftsinformatik" (WI2023), Track "Smart Cities & Digital Government" ([Link](https://wi2023.de/track-17/))
 * Associate Editor at "16. Internationale Tagung Wirtschaftsinformatik" (WI2021), Track "Smart City & E-Government". ([Link](https://wi2021.de/smart-city-e-government-2/))
 * Reviews for GIQ, WI (2022, 2021), ICIS 2022, IFIP EGOV (2022, 2021)
+
+### Workshops
+
+* *"How to Government as a Platform in Deutschland?"*, PIAZZA Konferenz 2022, 07.12.2022 ([Outline](https://piazza-konferenz.de/die-workshops/2022_government-as-a-platform/))
+* *"Plattformansätze in der Verwaltungsdigitalisierung"*, NEGZ Herbsttagung 2020, 29.10.2020 ([Video](https://www.youtube.com/watch?v=RzcXcdU06dE), [Slides](https://speakerdeck.com/nhukretep/einfuhrung-zu-plattformansatzen-in-der-verwaltungsdigitalisierung))
+* *"Nutzerfreundliche Formulare sind gut, keine Formulare sind besser"*, Creative Bureaucracy Festival 2019, Berlin, 21.09.2019 ([Slides](https://speakerdeck.com/nhukretep/nutzerfreundliche-formulare-sind-gut-keine-formulare-sind-besser))
+* *"Sharing Economy: Potential im öffentlichen Sektor"*, Creative Bureaucracy Festival 2018, Berlin, 08.09.2018 ([Slides](https://www.slideshare.net/PeterKuhn22/sharing-economy-potential-im-ffentlichen-sektor))
+
+### Talks
+
+* Science Slam, Zentrum Digitalisierung Bayern, 06.12.2019; ([Video](https://www.youtube.com/watch?v=eG5EuuUYZFQ))
+* Digitalisierungsthemen der Lokalpolitik, AK Digitales, Grüne München, 17.06.2019; ([Slides](https://speakerdeck.com/nhukretep/digitalisierungsthemen-der-lokalpolitik))
 
 ### Other Publications
 
