@@ -39,11 +39,11 @@ title: Peter Kuhn
 
 2021
 
-* *"How to Redesign Government Processes for Proactive Public Services?"*, IFIP EGOV 2021, Peter Kuhn, Matthias Buchinger and Dian Balta. ([Link](http://dx.doi.org/10.1007/978-3-030-84789-0_3), Video)
+* *"How to Redesign Government Processes for Proactive Public Services?"*, IFIP EGOV 2021, Peter Kuhn, Matthias Buchinger and Dian Balta. ([Link](http://dx.doi.org/10.1007/978-3-030-84789-0_3))
 
 2020
 
-* *"Service Quality Through Government Proactivity: The Concept of Non-interaction"*, IFIP EGOV 2020, Peter Kuhn und Dian Balta, best paper nomination. ([Link](http://dx.doi.org/10.1007/978-3-030-57599-1_7), Video)
+* *"Service Quality Through Government Proactivity: The Concept of Non-interaction"*, IFIP EGOV 2020, Peter Kuhn und Dian Balta, best paper nomination. ([Link](http://dx.doi.org/10.1007/978-3-030-57599-1_7))
 * *"Was sind Herausforderungen proaktiver Verwaltungsleistungen in Deutschland?"*, Internationale Tagung Wirtschaftsinformatik 2020, Peter Kuhn, Dian Balta und Helmut Krcmar. ([Link](https://library.gito.de/2021/07/wi2020-zentrale-tracks-40/)) ([Open Access](https://library.gito.de/wp-content/uploads/2021/08/E4_Paper_WI-2020_final_rev_final_cameraready.pdf))
 
 ### Book chapters
@@ -52,7 +52,7 @@ title: Peter Kuhn
 
 ### Studies
 
-* *"Government as a Platform in Deutschland"*, NEGZ-Kurzstudie Nr. 30, November 2023, Peter Kuhn und Dian Balta. ([Link](https://negz.org/publikation/government-as-a-platform/))
+* *"Government as a Platform in Deutschland"*, NEGZ-Kurzstudie Nr. 30, November 2023, Peter Kuhn und Dian Balta. ([Link](https://negz.org/publikation/government-as-a-platform/), [Video](https://www.youtube.com/watch?v=BVgO42pKDv0))
 
 * *"Verwaltung. Digitalisierung. Plattform. Kurzstudie zur Koordination und Gestaltung der deutschen Verwaltungsdigitalisierung mit Plattformökosystemen"*, im Auftrag der FITKO, Frühjahr 2021, Peter Kuhn, Matthias Buchinger, Micha Lutz, Dian Balta. ([Link](https://www.fortiss.org/fileadmin/user_upload/05_Veroeffentlichungen/Informationsmaterialien/Studie_fortiss_FITKO_VerwaltungDigitalisierungPlattform_web.pdf))
 
@@ -100,7 +100,6 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 * Bericht zum Projekt "LEA" mit der Landeshauptstadt München auf muenchen.digital ([Link](https://muenchen.digital/blog/begleitforschung-e-government/))
 * Kommentar zur OZG-Umsetzung für N3GZ: *"Warum die OZG-Umsetzung nicht einfach ist und fünf Strategien, die helfen können"* ([Link](https://n3gz.org/2020/08/21/warum-die-ozg-umsetzung-nicht-einfach-ist-und-fuenf-strategien-die-helfen-koennen/))
 * Science Slam, Zentrum Digitalisierung Bayern, 06.12.2019; ([Video](https://www.youtube.com/watch?v=eG5EuuUYZFQ))
-* Digitalisierungsthemen der Lokalpolitik, AK Digitales, Grüne München, 17.06.2019; ([Slides](https://speakerdeck.com/nhukretep/digitalisierungsthemen-der-lokalpolitik))
 
 ## In the media
 * [https://netzpolitik.org/2022/reform-des-onlinezugangsgesetzes-entscheidende-standards-fehlen-noch-immer/](https://netzpolitik.org/2022/reform-des-onlinezugangsgesetzes-entscheidende-standards-fehlen-noch-immer/)
