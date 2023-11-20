@@ -29,34 +29,34 @@ title: Peter Kuhn
 2023
 
 * *"Government as a Platform in practice: Commonalities and differences across three European Countries"*, IFIP EGOV 2023, Peter Kuhn, Giulia Maragno, Dian Balta, Luca Gastaldi, and Florian Matthes. ([Link](https://link.springer.com/chapter/10.1007/978-3-031-41138-0_3))
-* *"Toward Government as a Platform: An Analysis Method for Public Sector Infrastructure"*, Internationale Tagung Wirtschaftsinformatik 2023, Peter Kuhn, Liudmila Zavolokina, Dian Balta and Florian Matthes. ([Link](https://aisel.aisnet.org/wi2023/41/))
+* *"Toward Government as a Platform: An Analysis Method for Public Sector Infrastructure"*, Internationale Tagung Wirtschaftsinformatik 2023, Peter Kuhn, Liudmila Zavolokina, Dian Balta and Florian Matthes. Best paper nomination. ([Link](https://aisel.aisnet.org/wi2023/41/))
 
 2022
 
 * *"Closing the GaaP: Lessons Learned from a Web-based Analysis Tool for Practitioners"*, *Ongoing Research, Practitioners, Posters, Workshops, and Projects at EGOV-CeDEM-ePart 2022, CEUR Workshop Proceedings*, Peter Kuhn, Dian Balta und Florian Matthes. ([Link](https://ceur-ws.org/Vol-3399/)) ([Open Access](https://ceur-ws.org/Vol-3399/paper9.pdf))
 * *"Towards “Government as a Platform”: An analysis framework for public sector infrastructure"*, Internationale Tagung Wirtschaftsinformatik 2022, Peter Kuhn, Simon Dallner, Matthias Buchinger und Dian Balta. ([Link](https://aisel.aisnet.org/wi2022/e_government/e_government/4)) ([Open Access](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1078&context=wi2022))
 * *"Barriers of applying Government as a Platform in Practice:  Evidence from Germany"*, *Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS 2022)*, Peter Kuhn, Matthias Buchinger, Dian Balta and Florian Matthes. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/79661)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/79661/0261.pdf))
-* *"Dimensions of Accountability in Inter-organizational Business Processes"*, *Proceedings of the 55th Hawaii International Conference on System Sciences (HICSS 2022)*, Matthias Buchinger, Peter Kuhn and Dian Balta. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/79382)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/79382/0043.pdf))
 
 2021
 
 * *"How to Redesign Government Processes for Proactive Public Services?"*, IFIP EGOV 2021, Peter Kuhn, Matthias Buchinger and Dian Balta. ([Link](http://dx.doi.org/10.1007/978-3-030-84789-0_3), Video)
-* *"Accountable Federated Machine Learning in Government: Engineering and Management Insights"*, IFIP EGOV 2021, Dian Balta, Mahdi Sellami, Peter Kuhn, best paper award. ([Link](http://dx.doi.org/10.1007/978-3-030-82824-0_10), Video)
-* *"Towards Interoperability of Smart City Data Platforms"*, *Proceedings of the 54th Hawaii International Conference on System Sciences (HICSS 2021)*, Matthias Buchinger, Peter Kuhn, Anastasios Kalogeropoulos und Dian Balta. ([Link](https://scholarspace.manoa.hawaii.edu/handle/10125/70914)) ([Open Access](https://scholarspace.manoa.hawaii.edu/bitstream/10125/70914/0241.pdf))
-* "*Towards Interoperability of Data Platforms for Smart Cities*", Handbook of Smart Cities, Matthias Buchinger, Peter Kuhn und Dian Balta. ([Link](https://link.springer.com/referenceworkentry/10.1007/978-3-030-15145-4_70-1))
 
 2020
 
 * *"Service Quality Through Government Proactivity: The Concept of Non-interaction"*, IFIP EGOV 2020, Peter Kuhn und Dian Balta, best paper nomination. ([Link](http://dx.doi.org/10.1007/978-3-030-57599-1_7), Video)
 * *"Was sind Herausforderungen proaktiver Verwaltungsleistungen in Deutschland?"*, Internationale Tagung Wirtschaftsinformatik 2020, Peter Kuhn, Dian Balta und Helmut Krcmar. ([Link](https://library.gito.de/2021/07/wi2020-zentrale-tracks-40/)) ([Open Access](https://library.gito.de/wp-content/uploads/2021/08/E4_Paper_WI-2020_final_rev_final_cameraready.pdf))
 
-2019
-
-* *"How to Streamline AI Application in Government? A Case Study on Citizen Participation in Germany"*, IFIP EGOV-CeDEMePart 2019, Dian Balta, Peter Kuhn, Helmut Krcmar, Daniel Kulus, Claudius Lieven and Mahdi Sellami. ([Link](https://doi.org/10.1007/978-3-030-27325-5_18))
-
 ### Book chapters
 
 * *"Proaktive Verwaltungsleistungen"*, Handbuch Digitalisierung der Verwaltung, Peter Kuhn ([Link](https://www.utb.de/doi/abs/10.36198/9783838559292-406-419))
+
+### Studies
+
+* *"Government as a Platform in Deutschland"*, NEGZ-Kurzstudie Nr. 30, November 2023, Peter Kuhn und Dian Balta. ([Link](https://negz.org/publikation/government-as-a-platform/))
+
+* *"Verwaltung. Digitalisierung. Plattform. Kurzstudie zur Koordination und Gestaltung der deutschen Verwaltungsdigitalisierung mit Plattformökosystemen"*, im Auftrag der FITKO, Frühjahr 2021, Peter Kuhn, Matthias Buchinger, Micha Lutz, Dian Balta. ([Link](https://www.fortiss.org/fileadmin/user_upload/05_Veroeffentlichungen/Informationsmaterialien/Studie_fortiss_FITKO_VerwaltungDigitalisierungPlattform_web.pdf))
+
+* *"Sharing Economy: Potential im öffentlichen Sektor"*, NEGZ-Kurzstudie Nr.5, 07/2019, Dian Balta, Sara Hofmann, Peter Kuhn, Helmut Krcmar. ([Link](https://negz.org/projekte-publikationen/))
 
 ### Teaching
 
@@ -74,14 +74,6 @@ Seminar "IT-Recht in der öffentlichen Verwaltung: E-Government-Gesetz, IT-Siche
 CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 
 * Information Systems Perspective on E-Government in Germany ([Slides](https://speakerdeck.com/nhukretep/information-systems-perspective-on-e-government-in-germany))
-
-### Studies
-
-* *"Government as a Platform in Deutschland"*, NEGZ-Kurzstudie Nr. 30, November 2023, Peter Kuhn und Dian Balta. ([Link](https://negz.org/publikation/government-as-a-platform/))
-
-* *"Verwaltung. Digitalisierung. Plattform. Kurzstudie zur Koordination und Gestaltung der deutschen Verwaltungsdigitalisierung mit Plattformökosystemen"*, im Auftrag der FITKO, Frühjahr 2021, Peter Kuhn, Matthias Buchinger, Micha Lutz, Dian Balta. ([Link](https://www.fortiss.org/fileadmin/user_upload/05_Veroeffentlichungen/Informationsmaterialien/Studie_fortiss_FITKO_VerwaltungDigitalisierungPlattform_web.pdf))
-
-* *"Sharing Economy: Potential im öffentlichen Sektor"*, NEGZ-Kurzstudie Nr.5, 07/2019, Dian Balta, Sara Hofmann, Peter Kuhn, Helmut Krcmar. ([Link](https://negz.org/projekte-publikationen/))
 
 ### Editing
 
