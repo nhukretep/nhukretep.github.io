@@ -48,7 +48,7 @@ title: Peter Kuhn
 
 ### Book chapters
 
-* *"Proaktive Verwaltungsleistungen"*, Handbuch Digitalisierung der Verwaltung, Peter Kuhn ([Link](https://www.utb.de/doi/abs/10.36198/9783838559292-406-419))
+* *"Proaktive Verwaltungsleistungen"*, Handbuch Digitalisierung der Verwaltung, Peter Kuhn ([Link](https://www.utb.de/doi/abs/10.36198/9783838559292-406-419), [Video](https://www.youtube.com/watch?v=BVgO42pKDv0))
 
 ### Studies
 
@@ -100,8 +100,6 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 * Bericht zum Projekt "LEA" mit der Landeshauptstadt München auf muenchen.digital ([Link](https://muenchen.digital/blog/begleitforschung-e-government/))
 * Kommentar zur OZG-Umsetzung für N3GZ: *"Warum die OZG-Umsetzung nicht einfach ist und fünf Strategien, die helfen können"* ([Link](https://n3gz.org/2020/08/21/warum-die-ozg-umsetzung-nicht-einfach-ist-und-fuenf-strategien-die-helfen-koennen/))
 * Science Slam, Zentrum Digitalisierung Bayern, 06.12.2019; ([Video](https://www.youtube.com/watch?v=eG5EuuUYZFQ))
-
-## In the media
 * [https://netzpolitik.org/2022/reform-des-onlinezugangsgesetzes-entscheidende-standards-fehlen-noch-immer/](https://netzpolitik.org/2022/reform-des-onlinezugangsgesetzes-entscheidende-standards-fehlen-noch-immer/)
 * [https://netzpolitik.org/2022/onlinezugangsgesetz-mit-open-source-in-richtung-unabhaengigkeit/](https://netzpolitik.org/2022/onlinezugangsgesetz-mit-open-source-in-richtung-unabhaengigkeit/)
 * [https://netzpolitik.org/2022/onlinezugangsgesetz-ohne-schnittstellen-ist-kein-digitaler-staat-zu-machen/](https://netzpolitik.org/2022/onlinezugangsgesetz-ohne-schnittstellen-ist-kein-digitaler-staat-zu-machen/)
