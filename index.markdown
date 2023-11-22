@@ -48,7 +48,7 @@ title: Peter Kuhn
 
 ### Book chapters
 
-* *"Proaktive Verwaltungsleistungen"*, Handbuch Digitalisierung der Verwaltung, Peter Kuhn ([Link](https://www.utb.de/doi/abs/10.36198/9783838559292-406-419), [Video](https://www.youtube.com/watch?v=BVgO42pKDv0))
+* *"Proaktive Verwaltungsleistungen"*, Handbuch Digitalisierung der Verwaltung, Peter Kuhn ([Link](https://www.utb.de/doi/abs/10.36198/9783838559292-406-419))
 
 ### Studies
 
