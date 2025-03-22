@@ -28,7 +28,7 @@ title: Peter Kuhn
 
 2024
 
-* *"Guiding Principles for Government as a Platform"*, Internationale Tagung Wirtschaftsinformatik 2024, Peter Kuhn, Luca Gastaldi, Dian Balta and Florian Matthes. ([Link](https://aisel.aisnet.org/wi2024/47/))
+* *"Guiding Principles for Government as a Platform"*, Internationale Tagung Wirtschaftsinformatik 2024, Peter Kuhn, Luca Gastaldi, Dian Balta and Florian Matthes. ([Link](https://aisel.aisnet.org/wi2024/74/))
 
 2023
 
