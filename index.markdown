@@ -3,7 +3,7 @@ layout: home
 title: Peter Kuhn
 ---
 
-### Researcher @[fortiss](https://fortiss.org), Doctoral Student @[sebis/TUM](https://wwwmatthes.in.tum.de/) 
+### Researcher @[fortiss](https://fortiss.org) (2018-2023), Doctoral Student @[sebis/TUM](https://wwwmatthes.in.tum.de/) (since 2021) 
 
 ![profilpic](.\profilepic.jpg)
 
@@ -25,6 +25,10 @@ title: Peter Kuhn
 ## Publications
 
 ### Papers
+
+2024
+
+* *"Guiding Principles for Government as a Platform"*, Internationale Tagung Wirtschaftsinformatik 2024, Peter Kuhn, Luca Gastaldi, Dian Balta and Florian Matthes. ([Link](https://aisel.aisnet.org/wi2024/47/))
 
 2023
 
