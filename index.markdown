@@ -3,7 +3,9 @@ layout: home
 title: Peter Kuhn
 ---
 
-### Researcher @[fortiss](https://fortiss.org) (2018-2023), Doctoral Student @[sebis/TUM](https://wwwmatthes.in.tum.de/) (since 2021) 
+This is a website about my research activities from 2018-2025 on the digital transformation in the public sector as a
+* as a researcher @[fortiss](https://fortiss.org) from 2018 to 2023 and
+* as a doctoral student @[sebis/TUM](https://wwwmatthes.in.tum.de/) from 2021 to 2025
 
 ![profilpic](.\profilepic.jpg)
 
@@ -108,25 +110,5 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 * [https://netzpolitik.org/2022/onlinezugangsgesetz-mit-open-source-in-richtung-unabhaengigkeit/](https://netzpolitik.org/2022/onlinezugangsgesetz-mit-open-source-in-richtung-unabhaengigkeit/)
 * [https://netzpolitik.org/2022/onlinezugangsgesetz-ohne-schnittstellen-ist-kein-digitaler-staat-zu-machen/](https://netzpolitik.org/2022/onlinezugangsgesetz-ohne-schnittstellen-ist-kein-digitaler-staat-zu-machen/)
 * [NEGZ Spezial: Rechtliche Wege zum Plattformansatz](https://www.youtube.com/watch?v=5SnjVSwzrJw)
-
-## Vita
-
-Ich bin in Badisch Franken aufgewachsen und habe in München und Mailand Maschinenbau und VWL studiert. Ich bin Mitglied bei **[N3GZ](https://n3gz.org/)**, dem Nachwuchsnetzwerk für Digitale Verwaltung.
-
-Beruflich beschäftige ich mich mit den Themen **E-Government und der Digitalisierung der öffentlichen Verwaltung**. Anfang 2018 war ich dazu in mehreren Behörden und Institutionen, mehr dazu [**hier**](https://nhukretep.github.io/eGov-blog/). Seit September 2018 bin ich als wissenschaftlicher Mitarbeiter im Team *Platform Engineering* bei der [**fortiss**](https://www.fortiss.org) in München tätig.
-
-*+++ English version +++*
-
-I grew up in south Germany and studied Engineering and Economics in Munich and Milan. I am a member of the Network **[N3GZ](https://n3gz.org/)**.
-
-I am currently a researcher in the division *Platform Engineering* at [**fortiss**](https://www.fortiss.org/en/home/) in Munich, working on **E-Government** projects.
-
-## Contact
-
-**E-Mail:** mail § nhukretep * de
-
-**Twitter:** [@nhuKreteP](https://twitter.com/nhukretep)
-
-**Github:** [https://github.com/nhukretep](https://github.com/nhukretep)
 
 ---
