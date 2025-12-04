@@ -7,7 +7,7 @@ This is a website about my research activities from 2018 to 2025 on the digital 
 * as a researcher @[fortiss](https://fortiss.org) from 2018 to 2023 and
 * as a doctoral student @[sebis/TUM](https://wwwmatthes.in.tum.de/) from 2021 to 2025
 
-The activities culminated in my PhD thesis which is published here: [Link](https://mediatum.ub.tum.de/?id=1781751)
+The activities culminated in my PhD thesis **"Toward Government As a Platform: An Analysis Method and Design Principles"** which is published here: [Link](https://mediatum.ub.tum.de/?id=1781751)
 
 ![profilpic](.\profilepic.jpg)
 
