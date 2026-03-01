@@ -99,7 +99,7 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 ### Other 
 
 * Beitrag in der *eGovernment* 1/2024, "Government as a Platform?", Dezember 2023, Seite 7. [Link](https://issuu.com/docs/0a1933abf61df508b08fc71bf73cda31)
-* [NEGZ Spezial: Rechtliche Wege zum Plattformansatz](https://www.youtube.com/watch?v=5SnjVSwzrJw)
+* Teilnahme am NEGZ Spezial "Rechtliche Wege zum Plattformansatz" [Link](https://www.youtube.com/watch?v=5SnjVSwzrJw)
 * Blog-Eintrag für die PIAZZA-Konferenz 2022, "Die föderale IT-Infrastruktur und das OZG 2.0 – how to make it work", Oktober 2022. ([Link](https://piazza-konferenz.de/2022/10/05/die-foderale-it-infrastruktur-und-das-ozg-2-0/))
 * Zu Gast beim E-Government-Podcast, Folge "OZG 2.0: Zeit für die Infrastruktur", Juli 2022. ([Link](https://egovernment-podcast.com/egov112-ozg20/))
 * Kommentar zur Bundestagswahl für N3GZ: "*3 E-Government-Fragen, die die nächste Bundesregierung beantworten muss*" ([Link](https://n3gz.org/2021/07/13/3-e-government-fragen-die-die-naechste-bundesregierung-beantworten-muss/))
