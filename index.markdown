@@ -98,18 +98,19 @@ CDTM Trend Seminar 2020, München, 05.03.2020, Gastvortrag
 
 ### Other 
 
-* Beitrag in der **eGovernment** 1/2024, "Government as a Platform?", Dezember 2023, Seite 7. [Link](https://issuu.com/docs/0a1933abf61df508b08fc71bf73cda31)
+* Beitrag in der *eGovernment* 1/2024, "Government as a Platform?", Dezember 2023, Seite 7. [Link](https://issuu.com/docs/0a1933abf61df508b08fc71bf73cda31)
 * [NEGZ Spezial: Rechtliche Wege zum Plattformansatz](https://www.youtube.com/watch?v=5SnjVSwzrJw)
 * Blog-Eintrag für die PIAZZA-Konferenz 2022, "Die föderale IT-Infrastruktur und das OZG 2.0 – how to make it work", Oktober 2022. [Link](https://piazza-konferenz.de/2022/10/05/die-foderale-it-infrastruktur-und-das-ozg-2-0/)
 * Zu Gast beim E-Government-Podcast, Folge "OZG 2.0: Zeit für die Infrastruktur", Juli 2022. ([Link](https://egovernment-podcast.com/egov112-ozg20/))
 * Kommentar zur Bundestagswahl für N3GZ: "*3 E-Government-Fragen, die die nächste Bundesregierung beantworten muss*" ([Link](https://n3gz.org/2021/07/13/3-e-government-fragen-die-die-naechste-bundesregierung-beantworten-muss/))
 * Zitate für einen Artikel von Netzpolitk.org,"Reform des Onlinezugangsgesetzes: entscheidende Standards fehlen noch immer" [Link](https://netzpolitik.org/2022/reform-des-onlinezugangsgesetzes-entscheidende-standards-fehlen-noch-immer/)
 * Zitate für einen Artikel von Netzpolitk.org "Onlinezugangsgesetz: Mit Open Source in richtung Unabhaengigkeit" [Link](https://netzpolitik.org/2022/onlinezugangsgesetz-mit-open-source-in-richtung-unabhaengigkeit/)
-* Zitate für einen Artikel von Netzpolitk.org "Onlinezugangsgesetz:Ohne Schnittstellen ist kein digitaler Staat zu machen" [Link](https://netzpolitik.org/2022/onlinezugangsgesetz-ohne-schnittstellen-ist-kein-digitaler-staat-zu-machen/)
+* Zitate für einen Artikel von Netzpolitk.org "Onlinezugangsgesetz: Ohne Schnittstellen ist kein digitaler Staat zu machen" [Link](https://netzpolitik.org/2022/onlinezugangsgesetz-ohne-schnittstellen-ist-kein-digitaler-staat-zu-machen/)
 * Kommentar im Tagesspiegel Background zusammen mit Moreen Heine, Juni 2022. ([Link](https://background.tagesspiegel.de/digitalisierung/ozg-2-0-zeit-fuer-die-infrastruktur))
 * Zu Gast beim E-Government-Podcast, Folge "OZG - Eine aktuelle Zusammenfassung", November 2020. ([Link](https://egovernment-podcast.com/egov067-ozg-eine-aktuelle-zusammenfassung/))
 * Beitrag in der PLANERIN 1/2019 *"Digitalgestützte Bürgerbeteiligung & KI - Anwendungsbeispiele, Chancen und Herausforderungen"*, PLANERIN 1/2019, S. 19- 22, Dian Balta, Helmut Krcmar, Peter Kuhn, Daniel Kulus, Mahdi Sellami.
 * Bericht zum Projekt "LEA" mit der Landeshauptstadt München auf muenchen.digital ([Link](https://muenchen.digital/blog/begleitforschung-e-government/))
 * Kommentar zur OZG-Umsetzung für N3GZ: *"Warum die OZG-Umsetzung nicht einfach ist und fünf Strategien, die helfen können"* ([Link](https://n3gz.org/2020/08/21/warum-die-ozg-umsetzung-nicht-einfach-ist-und-fuenf-strategien-die-helfen-koennen/))
 * Science Slam, Zentrum Digitalisierung Bayern, 06.12.2019; ([Video](https://www.youtube.com/watch?v=eG5EuuUYZFQ))
+
 ---
