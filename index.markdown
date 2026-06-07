@@ -33,6 +33,10 @@ E-Government, Platform Ecosystems, Information Systems, Design Science, Policy E
 
 * *"Guiding Principles for Government as a Platform"*,  In: Shaping the Digital Future Through Innovation and Practice, Peter Kuhn, Luca Gastaldi, Dian Balta, and Florian Matthes. ([Link](https://doi.org/10.1007/978-3-032-08489-7_4))
 
+2025
+
+* *"Toward Government as a Platform: An Analysis Method for Public Sector Infrastructure"*,  In: Transforming the Digitally Sustainable Enterprise, Peter Kuhn, Liudmila Zavolokina, Dian Balta and Florian Matthes. ([Link](https://doi.org/10.1007/978-3-031-80125-9_20))
+
 2024
 
 * *"Guiding Principles for Government as a Platform"*, Internationale Tagung Wirtschaftsinformatik 2024, Peter Kuhn, Luca Gastaldi, Dian Balta and Florian Matthes. ([Link](https://aisel.aisnet.org/wi2024/74/))
